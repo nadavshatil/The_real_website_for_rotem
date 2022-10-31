@@ -1,0 +1,43 @@
+        body {
+         background-color: #E3FCBF;
+        }
+        hr {
+        background-color: white;
+        border-style: none;
+        border-top-style: dotted;
+        border-color: grey;
+        border-width: 5px;
+        width: 100%;
+        }
+        h1 {
+        color: #F8CB2E;
+        font-family: Ariel;
+        }
+        p {
+       color: #001E6C;
+        }
+        h3 {
+        color: #646FD4;
+        font-size: 200;
+        font-family: Ariel;
+
+        }
+        img {
+            background-color: red;
+
+        }
+        .bitcoin-symbol {
+            border-radius: 55%;
+            position: relative;
+            left: 300px;
+        }
+        .lightning-table{
+            width : 500px;
+            height: auto;
+            position: relative;
+            left: 100px;
+        }
+
+        #heading {
+            color: #F8CB2E;
+        }
