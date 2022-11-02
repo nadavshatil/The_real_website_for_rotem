@@ -1,43 +1,23 @@
-        body {
-         background-color: #E3FCBF;
-        }
-        hr {
-        background-color: white;
-        border-style: none;
-        border-top-style: dotted;
-        border-color: grey;
-        border-width: 5px;
-        width: 100%;
-        }
-        h1 {
-        color: #F8CB2E;
-        font-family: Ariel;
-        }
-        p {
-       color: #001E6C;
-        }
-        h3 {
-        color: #646FD4;
-        font-size: 200;
-        font-family: Ariel;
+h1 {
+    color: #f48db4;
+    font-family:'papyrus', 'Copperplate', 'fantasy';
+}
 
-        }
-        img {
-            background-color: red;
+body, html{
+background-color: #fcf4d9;
+}
 
-        }
-        .bitcoin-symbol {
-            border-radius: 55%;
-            position: relative;
-            left: 300px;
-        }
-        .lightning-table{
-            width : 500px;
-            height: auto;
-            position: relative;
-            left: 100px;
-        }
+div {
+margin:0;
+background-color: #fcf4d9;
 
-        #heading {
-            color: #F8CB2E;
-        }
+}
+
+.center {
+ margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
